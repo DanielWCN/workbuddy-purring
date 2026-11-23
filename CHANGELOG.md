@@ -2,6 +2,15 @@
 
 本文件记录 workbuddy-purring 的重要变更。
 
+## [1.1.0] — 2026-11-23
+
+### 新增
+
+- **中文显示名** `WorkBuddy签到+遛猫` —— 通过 SKILL.md frontmatter 的 `display_name` / `display_name_en` 字段声明
+  - `name` 字段保持 `workbuddy-purring`（官方强制 kebab-case 技术标识，不可改）
+  - WorkBuddy 技能市场与技能列表中展示为中文名
+  - 官方市场同类做法参考：`智能选股`、`元宝高考通-地区分数线查询`
+
 ## [1.0.0] — 2026-11-23
 
 首个公开版本（原名 `checkin-buddy`，为统一命名体系改为 `workbuddy-purring`）。

@@ -1,10 +1,12 @@
 ---
 name: workbuddy-purring
+display_name: "WorkBuddy签到+遛猫"
+display_name_en: "WorkBuddy Purring"
 description: Set up fully automatic WorkBuddy daily check-in, points collection, and buddy-cat travel with optional WeChat notification. Use when a user asks to auto check in WorkBuddy, earn daily credits without opening the computer, schedule cloud-side check-in, send the buddy cat on trips, push check-in results to WeChat, or set up the workbuddy-purring project. Supports a cloud-first path (Kingsoft/WPS AirScript) and a local Windows path.
 agent_created: true
 ---
 
-# WorkBuddy Purring · 自动签到
+# WorkBuddy签到+遛猫
 
 > GitHub: [DanielWCN/workbuddy-purring](https://github.com/DanielWCN/workbuddy-purring) · 项目代号 **workbuddy-purring**
 >

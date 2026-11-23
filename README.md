@@ -1,8 +1,10 @@
 <div align="center">
 
-# WorkBuddy Purring
+# WorkBuddy签到+遛猫
 
 **WorkBuddy 每日自动签到 · 猫猫旅行自动化**
+
+<sub>English display name: <b>WorkBuddy Purring</b> · 技能标识 <code>workbuddy-purring</code></sub>
 
 > *Purring* — 猫的呼噜声，也是服务器持续运转的低鸣。
 > 你的猫猫在云端一直呼噜着，替你把每一天的签到做完。
