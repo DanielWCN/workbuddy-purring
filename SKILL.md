@@ -1,12 +1,14 @@
 ---
-name: checkin-buddy
-description: Set up fully automatic WorkBuddy daily check-in, points collection, and buddy-cat travel with optional WeChat notification. Use when a user asks to auto check in WorkBuddy, earn daily credits without opening the computer, schedule cloud-side check-in, send the buddy cat on trips, push check-in results to WeChat, or set up the checkin-buddy project. Supports a cloud-first path (Kingsoft/WPS AirScript) and a local Windows path.
+name: workbuddy-purring
+description: Set up fully automatic WorkBuddy daily check-in, points collection, and buddy-cat travel with optional WeChat notification. Use when a user asks to auto check in WorkBuddy, earn daily credits without opening the computer, schedule cloud-side check-in, send the buddy cat on trips, push check-in results to WeChat, or set up the workbuddy-purring project. Supports a cloud-first path (Kingsoft/WPS AirScript) and a local Windows path.
 agent_created: true
 ---
 
-# WorkBuddy 自动签到
+# WorkBuddy Purring · 自动签到
 
-> GitHub: [DanielWCN/checkin-buddy](https://github.com/DanielWCN/checkin-buddy) · 项目代号 **checkin-buddy**
+> GitHub: [DanielWCN/workbuddy-purring](https://github.com/DanielWCN/workbuddy-purring) · 项目代号 **workbuddy-purring**
+>
+> *Purring* — 猫的呼噜声，也是服务器持续运转的低鸣。猫猫在云端一直呼噜着，替你把每一天的签到做完。
 
 ## 一句话介绍
 

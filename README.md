@@ -1,8 +1,11 @@
 <div align="center">
 
-# Checkin Buddy
+# WorkBuddy Purring
 
 **WorkBuddy 每日自动签到 · 猫猫旅行自动化**
+
+> *Purring* — 猫的呼噜声，也是服务器持续运转的低鸣。
+> 你的猫猫在云端一直呼噜着，替你把每一天的签到做完。
 
 不开机也能签到 —— 云端定时、零成本、凭证自动续期
 
@@ -20,7 +23,7 @@
 
 WorkBuddy 客户端每天可以签到领积分、派"猫猫"出去旅行领奖励。默认你得**打开客户端、点几下**，一天不点就断签。
 
-`checkin-buddy` 把这件事完全自动化：
+`workbuddy-purring` 把这件事完全自动化：
 
 - **真·不开机** —— 签到逻辑托管在金山文档的服务端定时任务里，电脑关机、客户端没开，照样签到
 - **一次配置，长期有效** —— 每次运行自动用 `refreshToken` 换新 token 并写回，长期滚动续期，不用反复登录
@@ -144,7 +147,7 @@ python scripts/cloud_checkin.py
 ## 目录结构
 
 ```
-checkin-buddy/
+workbuddy-purring/
 ├── SKILL.md                      WorkBuddy 技能定义（可上架专家技能）
 ├── README.md
 ├── CHANGELOG.md
@@ -203,7 +206,7 @@ MIT © DanielWCN
 
 ## English
 
-**checkin-buddy** automates WorkBuddy's daily check-in (earn credits) and buddy-cat travel rewards.
+**workbuddy-purring** automates WorkBuddy's daily check-in (earn credits) and buddy-cat travel rewards.
 
 - ☁️ **Truly headless** — the script runs on Kingsoft/WPS Docs' server-side scheduler, so it keeps working when your PC is off
 - 🔄 **Self-renewing credentials** — every run refreshes and writes back the token, so it keeps working indefinitely

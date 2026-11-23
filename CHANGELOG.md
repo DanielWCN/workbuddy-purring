@@ -1,10 +1,10 @@
 # Changelog
 
-本文件记录 checkin-buddy 的重要变更。
+本文件记录 workbuddy-purring 的重要变更。
 
 ## [1.0.0] — 2026-11-23
 
-首个公开版本。
+首个公开版本（原名 `checkin-buddy`，为统一命名体系改为 `workbuddy-purring`）。
 
 ### 新增
 
